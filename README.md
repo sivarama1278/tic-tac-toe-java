@@ -18,10 +18,10 @@ The project focuses on clean class responsibilities, object-oriented design, and
 
 ## Tech Stack
 
-- **Language:** Java
-- **Build Tool:** Apache Maven
-- **Testing Framework:** JUnit 5
-- **IDE:** IntelliJ IDEA
+- Language: Java
+- Build Tool: Apache Maven
+- Testing Framework: JUnit 5
+- IDE: IntelliJ IDEA
 
 
 ## Design Overview
